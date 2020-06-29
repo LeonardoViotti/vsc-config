@@ -5,7 +5,6 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
     "macros": {
         "execCurLn": [
-        "expandLineSelection",
         "workbench.action.terminal.runSelectedText",
         "cancelSelection"
         ]
