@@ -8,5 +8,10 @@
         "workbench.action.terminal.runSelectedText",
         "cancelSelection"
         ]
-        }
+        },
+    "window.zoomLevel": 0,
+    "python.pythonPath": "C:\\WBG\\Anaconda\\python.exe",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "editor.trimAutoWhitespace": false,
+    "editor.renderWhitespace": "all"
 }
