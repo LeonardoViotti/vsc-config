@@ -9,3 +9,4 @@ This is a repo to keep my VSC config settings
 
 ### Config files path
  - Windows: C:/Users/USER-NAME/AppData/Roaming/Code/User
+ - Linux: home/USER-NAME/.config/Code/User
