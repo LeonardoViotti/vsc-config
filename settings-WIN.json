@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Material Light",
+    "markdown-pdf.headerTemplate": "<span class='title' style='display: none;'></span>",
+    "editor.trimAutoWhitespace": false,
+    "editor.renderWhitespace": "all"
+
+}
